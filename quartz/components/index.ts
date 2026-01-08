@@ -23,6 +23,8 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import Maze from "./Maze"
+import ShortAnswer from "./IOL"
 
 export {
   ArticleTitle,
@@ -50,5 +52,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  Maze,
+  ShortAnswer,
 }
-export { default as IOLTest } from "./IOLTest"

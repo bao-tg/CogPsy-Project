@@ -39,12 +39,13 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.IOLTest(),
+    Component.TableOfContents(),
   ],
   right: [
+    Component.Maze(),
+    Component.ShortAnswer(),
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+
   ],
 }
 
