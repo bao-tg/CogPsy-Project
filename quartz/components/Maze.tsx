@@ -182,12 +182,21 @@ export default (() => {
   }
 
   document.addEventListener("keydown", e => {
-    if (!visible) return
+  // Only stop scrolling if the maze is actually visible
+  if (!visible) return
+
+  // Check if the key pressed is one of the arrow keys
+  const keys = ["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"]
+  if (keys.includes(e.key)) {
+    // This stops the page from moving/scrolling
+    e.preventDefault() 
+    
     if (e.key === "ArrowUp")    move(0, -1, "top")
     if (e.key === "ArrowDown")  move(0,  1, "bottom")
     if (e.key === "ArrowLeft")  move(-1, 0, "left")
     if (e.key === "ArrowRight") move(1,  0, "right")
-  })
+  }
+})
 
   resetBtn.addEventListener("click", generateMaze)
 
