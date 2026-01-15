@@ -60,6 +60,7 @@ export default (() => {
 
         {/* MAZE CONTAINER */}
         <div id="maze-container" style="display:none;">
+          <div style="height:8px;"></div>
           <button id="maze-reset" class="maze-btn">Generate New Maze</button>
           <div id="maze-grid" class="maze-grid"></div>
           <div id="maze-status" class="maze-info">

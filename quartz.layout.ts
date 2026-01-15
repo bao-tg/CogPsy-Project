@@ -34,18 +34,15 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
     Component.TableOfContents(),
   ],
   right: [
     Component.Maze(),
     Component.ShortAnswer(),
     Component.Graph(),
-
   ],
 }
 

@@ -45,7 +45,7 @@ export default (() => {
             
             <div class="sa-input-group">
               <input type="text" class="sa-user-input sa-input" placeholder="Type answer..." />
-              <button class="sa-check-btn sa-btn">Check</button>
+              <button class="sa-check-btn sa-btn" style="padding:6px 10px; font-size:0.85rem;">Check</button>
             </div>
 
             <div class="sa-feedback-box sa-feedback"></div>
