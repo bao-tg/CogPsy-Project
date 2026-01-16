@@ -70,7 +70,7 @@ The file below showed the sample ILO's test and sample questions.
 
 The puzzles will be randomly generated with the same difficulty (same size, e.g 20x20) to ensure there will be no selection bias.
 
-> The readers can also try our maze sample at the top-right corner.
+> The readers can also try our maze sample at the top-right corner (Desktop only).
 
 ### Procedure
 
