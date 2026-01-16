@@ -75,8 +75,11 @@ The puzzles will be randomly generated with the same difficulty (same size, e.g 
 ### Procedure
 
 All of the participants are divided into two groups:
+
 Group 1: Requires to do the IOL test, within 15 minutes.
+
 Group 2: Requires to do the IOL test, with a total of 15 minutes. For every 5 minutes, they are required to solve a maze puzzle (2 in total); the time spent in solving the maze puzzle isn’t counted in the total time of solving the IOL test.
+
 When the participants finish, their test IOL (solution:  https://ioling.org/results/best_solutions/)  score will be the main measurement for their performance. The results will be recorded by our team, ready for the discussion and conclusion.
 
 ## Variables
