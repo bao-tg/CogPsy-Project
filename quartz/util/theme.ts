@@ -12,7 +12,6 @@ export interface ColorScheme {
 
 interface Colors {
   lightMode: ColorScheme
-  darkMode: ColorScheme
 }
 
 export type FontSpecification =

@@ -111,6 +111,12 @@ Furthermore, the data indicate that Group 2 "learned" to solve the secondary tas
 
 [[note/Working Memory]] is a limited-capacity system that allows individuals to temporarily hold and manipulate information while performing cognitive tasks (Oberauer et al., 2016). To successfully solve IOL problems, participants must actively maintain multiple pieces of information while engaging in inductive reasoning and pattern recognition. These processes rely heavily on the ability to manipulate and update information in [[note/Working Memory]], requiring visuospatial processing and goal-directed planning, which draw on different cognitive resources from linguistic reasoning. As a result, frequent task switching forced participants to reallocate attention and repeatedly disengage from and re-engage with the IOL task. This introduced task-switching costs and increased cognitive load, making it more difficult to maintain relevant linguistic information in [[note/Working Memory]].
 
+<p align="center">
+    <img src="/media/overload_workingmem.jpg" style="max-width:80%; height:auto;" alt="Working Memory Model" />
+</p>
+<p align="center"> Fig 4. Overload working memory</p>
+
+
 Overall, the findings of this study suggest that the lower performance due to observed under [[note/Divided Attention]] is not simply due to reduced reasoning ability, but rather to limitations in [[note/Working Memory]] capacity when cognitive demands are high. The maze task acted as a competing demand that disrupted information maintenance and problem-solving processes, supporting the idea that multitasking can impair performance on complex cognitive tasks by overloading [[note/Working Memory]].
 
 ## Divided attention causes lower performance
@@ -119,11 +125,21 @@ Overall, the findings of this study suggest that the lower performance due to ob
 
 Research shows that those people who multitask, for instance, write down spoken words while simultaneously reading and understanding unrelated material, lead to poor performance in both tasks (Spelke, Hirst, & Neisser, 1976). However, Spelke et al. (1976) explored that, if the participants were trained intensively on the aforementioned task, they successfully learned to do the task with no performance decrements in either task. This finding  clearly showed that, if a task isn’t automated, there is no “multitasking”, it’s just switching tasks back and forth.
 
+<p align="center">
+    <img src="/media/divided_attention.jpg" style="max-width:80%; height:auto;" alt="Working Memory Model" />
+</p>
+<p align="center"> Fig 5. Divided Attention (by William Hemsley)</p>
+
 And hence solving ILO tests, a task requires heavy problem-solving/reasoning skills, and a maze puzzle requires visuospatial sketchpad’s capacity, both tasks require huge capacity of the cognitive ability. Moreover, the participants had no prior time to intensively train for the test, which means that the task isn't fully automated. Therefore, it is predictable that group 2’s score is lower than group 1.
 
 ## Working memory disruption via retroactive interference
 
 [[note//Retroactive Interference]] refers to the disruption of previously learned information by introducing new material, particularly when the first task’s memory has not yet been consolidated (Nieuwenstein & Wyble, 2014). In our study, the maze task is the [[note/Retroactive Interference]] because it was introduced after participants had participated in IOL test, making it more likely that this new information interfered with earlier encoded task rules rather than the reverse (i.e. IOL as [[note/Retroactive Interference]]).
+
+<p align="center">
+    <img src="/media/retroactive.avif" style="max-width:80%; height:auto;" alt="Working Memory Model" />
+</p>
+<p align="center"> Fig 5. Illustration of Retroactive Interference</p>
 
 The IOL task requires sustained reasoning over time, and the linguistic information held in [[note/Working Memory]] may not have been fully consolidated before the maze task was introduced. Upon solving the maze, Group 2 participants were required to process completely irrelevant spatial information, placing extra demands on the central executive. According to Baddeley (1974), the central executive responsible for controlling attentional resources has limited capacity and cannot focus on way too many tasks at once. Thus when multiple tasks place demands on this system simultaneously, they are competing for processing capacity which can reduce performance on the primary task or even both tasks.
 
