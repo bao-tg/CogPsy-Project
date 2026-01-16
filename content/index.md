@@ -139,7 +139,7 @@ And hence solving ILO tests, a task requires heavy problem-solving/reasoning ski
 <p align="center">
     <img src="/media/retroactive.avif" style="max-width:80%; height:auto;" alt="Working Memory Model" />
 </p>
-<p align="center"> Fig 5. Illustration of Retroactive Interference</p>
+<p align="center"> Fig 6. Illustration of Retroactive Interference</p>
 
 The IOL task requires sustained reasoning over time, and the linguistic information held in [[note/Working Memory]] may not have been fully consolidated before the maze task was introduced. Upon solving the maze, Group 2 participants were required to process completely irrelevant spatial information, placing extra demands on the central executive. According to Baddeley (1974), the central executive responsible for controlling attentional resources has limited capacity and cannot focus on way too many tasks at once. Thus when multiple tasks place demands on this system simultaneously, they are competing for processing capacity which can reduce performance on the primary task or even both tasks.
 
