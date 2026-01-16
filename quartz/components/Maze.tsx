@@ -62,6 +62,9 @@ export default (() => {
         <div id="maze-container" style="display:none;">
           <div style="height:8px;"></div>
           <button id="maze-reset" class="maze-btn">Generate New Maze</button>
+          <div class="maze-info" style="font-style: italic; margin-top: 8px;">
+            Use the arrow keys to move the player (Desktop only).
+          </div>
           <div id="maze-grid" class="maze-grid"></div>
           <div id="maze-status" class="maze-info">
             Use arrow keys to move. Reach the green cell.
