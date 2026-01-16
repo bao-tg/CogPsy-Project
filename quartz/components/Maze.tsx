@@ -92,7 +92,7 @@ export default (() => {
   =========================== */
 
   const SIZE = 15
-  const CELL_SIZE = 21
+  const CELL_SIZE = 12
 
   const gridEl = document.getElementById("maze-grid")
   const statusEl = document.getElementById("maze-status")
